@@ -1,3 +1,17 @@
+@import url(https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css);
+
+.table td, .table th {
+  border-top: none;
+}
+
+.index {
+  margin-bottom: 40px;
+}
+
+.buildingName{
+  font-size: 14px;
+
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
